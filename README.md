@@ -24,4 +24,5 @@ TASKS COMPLETED:
 3. Project Design Phase-II
 4. Assignments 1 to 4
 5. Project Development phase:
+
    a) Sprint 1
