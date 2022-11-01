@@ -26,4 +26,5 @@ TASKS COMPLETED:
 5. Project Development phase:
 
    a) Sprint 1
+   
    b) Sprint 2
