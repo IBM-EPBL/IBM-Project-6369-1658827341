@@ -38,3 +38,5 @@ TASKS COMPLETED:
    c) Sprint 3
    
    d) Sprint 4
+  
+12. Project Report
